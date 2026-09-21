@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+<img src="https://64.media.tumblr.com/4dc22cc541808597517fe91b350606bd/d159357bd952c3d9-80/s2048x3072/c06db52244629585256717fa94dba47c088ceddb.gifv"> 
+</p>
 
 <!--
 **woundfucking/woundfucking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
